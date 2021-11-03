@@ -1,6 +1,6 @@
 # ERC-20 Airdropper
 
-ERC-ERC20 Token Multi-Chain Airdropper. Sends tokens to multiple wallets in one transaction to save gas.
+ERC-20 Token Multi-Chain Airdropper. Sends tokens to multiple wallets in one transaction to save gas.
 
 Support networks:<br>
 Polygon, Huobi, Fantom, BSC mainnets and Ethereum Ropsten testnet.
