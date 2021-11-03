@@ -2,11 +2,14 @@
 
 ERC-20 Token Multi-Chain Airdropper. Sends tokens to multiple wallets in one transaction to save gas.
 
-Support networks:<br>
+Supported blockchains:<br>
 Polygon, Huobi, Fantom, BSC mainnets and Ethereum Ropsten testnet.
 <p>
 Max addresses to airdrop at once:<br>
 300-500
+  
+  
+[Deployed here.](https://leanco.in/ERC-20-Airdropper/)
   
   
   
